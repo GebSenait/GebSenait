@@ -1,8 +1,4 @@
-# Senait Gebreab – Senior QA Engineer & Product Analyst
-
----
-
-## 👋 About Me
+## About Me
 I am a dynamic and detail-driven QA Engineer and Product Analyst with **4+ years of experience** in software quality assurance, product analysis, and IT operations across SaaS, B2B, and digital platforms. I specialize in **manual and automated testing**, QA process optimization, and delivering reliable, high-quality products.
 
 My focus is on helping teams **reduce regression effort, improve product reliability**, and accelerate delivery by leveraging **automation frameworks, best practices, and strategic testing approaches**.
