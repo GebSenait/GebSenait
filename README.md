@@ -54,7 +54,7 @@ My focus is on helping teams reduce regression effort, improve product reliabili
    - [**DemoQA Auth Automation Suite**](https://github.com/GebSenait/demoqa-selenium-cucumber-framework) – Java, Selenium WebDriver, Cucumber, Features Page Object Model (POM), JUnit reports, and Maven  
       - End-to-end authentication testing, focusing on functional and regression automation across environments.  
 
-   - [**Data Quality & ML Test Automation Framework**](https://github.com/GebSenait/qa-best-practices) – Pytest + Great Expectations + Evidently AI  
+   - [**Data Quality & ML Test Automation Framework**](https://github.com/GebSenait/data-quality-ml-test-framework) – Pytest + Great Expectations + Evidently AI  
      ![Data Quality](https://img.shields.io/badge/DataQuality-4B8BBE?style=flat-square) ![ML Testing](https://img.shields.io/badge/MLTesting-FF69B4?style=flat-square) ![API Testing](https://img.shields.io/badge/API-00CED1?style=flat-square)  
       - Comprehensive automation for **data pipelines & ML model validation**. Ensures end-to-end trust from **raw data → warehouse → ML → API**. Features:  
      - Schema validation, anomaly detection, and drift monitoring  
