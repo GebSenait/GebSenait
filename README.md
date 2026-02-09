@@ -3,7 +3,7 @@
 
 I build **reliable software and data-driven systems**.  
 
-With 4+ years of experience across **SaaS, fintech, B2B, and AI-driven platforms**, I specialize in **quality engineering, automation, and applied data science**. My work focuses on reducing risk, improving product reliability, and enabling confident decision-making through **tested, measurable, production-ready solutions**.
+With 6+ years of experience across **SaaS, fintech, B2B, and AI-driven platforms**, I specialize in **quality engineering, automation, and applied data science**. My work focuses on reducing risk, improving product reliability, and enabling confident decision-making through **tested, measurable, production-ready solutions**.
 
 ---
 
