@@ -1,5 +1,5 @@
 # 👩‍💻 Senait Gebreab  
-### Senior QA Engineer | QA Automation Specialist | Data Science Engineer  
+### Senior QA Engineer | Data Science & ML Test Engineer  
 
 I build **reliable software and data-driven systems**.  
 
