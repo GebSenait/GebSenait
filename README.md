@@ -1,5 +1,5 @@
 # 👩‍💻 Senait Gebreab  
-### Senior QA Automation Engineer | ML Systems Validation & Data Quality | Fintech & AI Platforms  
+### Senior QA Automation Engineer | Quality Engineering | AI/ML Test Engineering  
 
 I build **reliable software and trustworthy machine learning systems**.
 
